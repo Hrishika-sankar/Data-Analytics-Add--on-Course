@@ -1,13 +1,4 @@
----
-title: "ggplot from the scratch"
-author: "siju.swamy@saintgits.org"
-date: "`r Sys.Date()`"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Introduction
 
