@@ -1,13 +1,4 @@
 
-```
-
-# Introduction{-}
-
-This tutorial introduces geospatial data visualization in R. 
-
-```{r diff, echo=FALSE, out.width= "15%", out.extra='style="float:right; padding:10px"'}
-knitr::include_graphics("https://slcladal.github.io/images/gy_chili.jpg")
-```
 
 This tutorial is aimed at beginners and intermediate users of R with the aim of showcasing how to visualize geospatial data, i.e. how to generate maps in R, and how to prepare data for geospatial visualizations using R. The aim is not to provide a fully-fledged analysis but rather to show and exemplify selected useful methods associated with generating maps. Very recommendable and detailed resources for geospatial data visualization using R can be found [here](https://keen-swartz-3146c4.netlify.app/), [here](https://bookdown.org/content/b298e479-b1ab-49fa-b83d-a57c2b034d49/),  or [here](https://geocompr.robinlovelace.net/index.html). If you are interested in cartography, [here](https://raw.githubusercontent.com/rstudio/cheatsheets/main/cartography.pdf) is a cheat sheet for cartography with R. 
 
